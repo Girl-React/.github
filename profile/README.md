@@ -22,11 +22,13 @@ fasdfasd
 
 ## Nome Sobrenome
 
-<kbd>
- <img src='https://avatars.githubusercontent.com/u/98771718?v=4' width="150px;">
-</kbd>
+<img align='left' src='https://avatars.githubusercontent.com/u/98771718?v=4' width="150px;">
 
-[![Facebook](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://facebook.com/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dev.to/) [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoff.ee/)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus non sem sed egestas. Donec magna ligula, placerat eget scelerisque vitae, sagittis nec lectus. Nulla eget purus ut diam eleifend rhoncus quis nec elit. Fusce augue odio, mattis nec eros a, rutrum sagittis turpis. Suspendisse sed tortor quam. Maecenas volutpat id eros vitae mattis. Ut non interdum dolor. Aenean id neque ut arcu vulputate efficitur tempus a sapien. 
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raqsanta/)
+
+<br />
 
 ## Antony Matheus
 
