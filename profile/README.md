@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
- <a href="#-Sobre">Sobre</a> •
- <a href="#-Nome-Sobrenome">Nome Sobrenome</a> •
- <a href="#-Antony-Matheus">Antony Matheus</a> • 
- <a href="#-Laryssa-Kaylane">Laryssa Kaylane</a> • 
- <a href="#-Mariana-Pereira">Mariana Pereira</a> • 
- <a href="#-Thayanne-Stella">Thayanne Stella</a> • 
- <a href="#-Nossos-Projetos">Nossos Projetos</a>
+ <a href="#Sobre">Sobre</a> •
+ <a href="#Nome-Sobrenome">Nome Sobrenome</a> •
+ <a href="#Antony-Matheus">Antony Matheus</a> • 
+ <a href="#Laryssa-Kaylane">Laryssa Kaylane</a> • 
+ <a href="#Mariana-Pereira">Mariana Pereira</a> • 
+ <a href="#Thayanne-Stella">Thayanne Stella</a> • 
+ <a href="#Nossos-Projetos">Nossos Projetos</a>
 </p>
 
 ## Sobre
