@@ -67,4 +67,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus non sem s
 ## Nossos Projetos
 
 <img align='left' src='https://user-images.githubusercontent.com/98771718/177063715-a9c7e317-f5c0-4171-b953-0955a40ad426.png' width='150px'>
-Jobee é uma plataforma para aproximar pessoas que buscam por oportunidades a pessoas e empresas que precisam de trabalhos não registrados de maneira segura e ágil. [Clique aqui para conhecer](https://github.com/Girl-React/jobee-front-nextjs)
+Jobee é uma plataforma para aproximar pessoas que buscam por oportunidades a pessoas e empresas que precisam de trabalhos não registrados de maneira segura e ágil. <a href='https://github.com/Girl-React/jobee-front-nextjs'>Clique aqui para conhecer</a>
