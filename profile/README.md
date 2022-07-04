@@ -20,7 +20,7 @@
 
 O *Girl React* é um grupo composto por cinco programadores apaixonados por desenvolver aplicações web. Inicialmente, a equipe foi formada aleatoriamente para o desenvolvimento do projeto final do **Start** fornecido pela Rede Cidadã, mas os integrantes rapidamente criaram uma grande afinidade entre si. 
 
-O foco da equipe é desenvolver websites minimalistas, mas ainda atrativos e criativos, com um visual menos robusto. O Girl React preza por uma boa experiência de usuário, com o lema de que **todo** *feedback* construtivo é **válido**.
+O foco da equipe é desenvolver websites minimalistas, mas ainda atrativos e criativos, com um visual menos robusto. O Girl React preza por uma boa experiência de usuário, com a máxima de que **todo** *feedback* construtivo é **válido**.
 
 ## Nome Sobrenome
 
@@ -65,3 +65,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus non sem s
 <br/>
 
 ## Nossos Projetos
+
+<img align='left' src='https://user-images.githubusercontent.com/98771718/177063715-a9c7e317-f5c0-4171-b953-0955a40ad426.png' width='150px'>
+Jobee é uma plataforma para aproximar pessoas que buscam por oportunidades a pessoas e empresas que precisam de trabalhos não registrados de maneira segura e ágil. [Clique aqui para conhecer](https://github.com/Girl-React/jobee-front-nextjs)
