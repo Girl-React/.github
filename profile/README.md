@@ -18,9 +18,9 @@
 
 ## Sobre
 
-fasdfasd
+O *Girl React* é um grupo composto por cinco programadores apaixonados por desenvolver aplicações web. Inicialmente, a equipe foi formada aleatoriamente para o desenvolvimento do projeto final do **Start** fornecido pela Rede Cidadã, mas os integrantes rapidamente criaram uma grande afinidade entre si. 
 
-<br />
+O foco da equipe é desenvolver websites minimalistas, mas ainda atrativos e criativos, com um visual menos robusto. O Girl React por uma boa  
 
 ## Nome Sobrenome
 
