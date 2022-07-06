@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="#Sobre">Sobre</a> •
- <a href="#Nome-Sobrenome">Nome Sobrenome</a> •
+ <a href="#Thulio-ALves">Thulio Alves</a> •
  <a href="#Antony-Matheus">Antony Matheus</a> • 
  <a href="#Laryssa-Kaylane">Laryssa Kaylane</a> • 
  <a href="#Mariana-Pereira">Mariana Pereira</a> • 
@@ -22,7 +22,7 @@ O *Girl React* é um grupo composto por cinco programadores apaixonados por dese
 
 O foco da equipe é desenvolver websites minimalistas, mas ainda atrativos e criativos, com um visual menos robusto. O Girl React preza por uma boa experiência de usuário, com a máxima de que **todo** *feedback* construtivo é **válido**.
 
-## Nome Sobrenome
+## Thulio Alves
 
 <img align='left' src='https://avatars.githubusercontent.com/u/98771718?v=4' width="150px;">
 
