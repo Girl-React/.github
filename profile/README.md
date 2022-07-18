@@ -36,7 +36,7 @@ Thulio Alves é desenvolvedor web full stack e designer gráfico pernambucano. E
 
 <img align='left' src='https://avatars.githubusercontent.com/u/105078467?v=4' width="150px;">
 
-Hector Kevin Walker is a 73-year-old former tradesperson who enjoys ferret racing, watching sport and baking. He is bright and entertaining, but can also be very unkind and a bit unfriendly. 
+Antony Matheus é um desenvolvedor Front-End e técnico em logística, Recifense. Apaixonado por conhecimento, despertou o prazer por estudar esse mundo da tecnologia. Buscando sempre está se aperfeiçoando e se ambientalizando nesse mercado cheio de oportunidades.
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raqsanta/)[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dev.to/)
 
