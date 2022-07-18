@@ -44,7 +44,7 @@ Hector Kevin Walker is a 73-year-old former tradesperson who enjoys ferret racin
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus non sem sed egestas. Donec magna ligula, placerat eget scelerisque vitae, sagittis nec lectus. Nulla eget purus ut diam eleifend rhoncus quis nec elit. Fusce augue odio, mattis nec eros a, rutrum sagittis turpis. Suspendisse sed tortor quam. Maecenas volutpat id eros vitae mattis. Ut non interdum dolor. Aenean id neque ut arcu vulputate efficitur tempus a sapien. 
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raqsanta/)[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dev.to/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/larysilvaak/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laryssa-kaylane-2b4502215/)
 
 ## Mariana Pereira
 
