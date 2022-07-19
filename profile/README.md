@@ -28,15 +28,17 @@ O foco da equipe é desenvolver websites minimalistas, mas ainda atrativos e cri
 
 Thulio Alves é desenvolvedor web full stack e designer gráfico pernambucano. Ele é brilhante e divertido, mas também pode ser muito retraído. Thulio está focando em desenvolvimento de aplicações web e experiência de usuário, enquanto promove a conscientização sobre a acessibilidade. 
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raqsanta/)[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/alvess)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulio-alves/)
-
 <br />
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raqsanta/)[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/alvess)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulio-alves/)
 
 ## Antony Matheus
 
 <img align='left' src='https://avatars.githubusercontent.com/u/105078467?v=4' width="150px;">
 
 Antony Matheus é um desenvolvedor front-End e técnico em logística recifense. Apaixonado por conhecimento, despertou o prazer por estudar esse mundo da tecnologia, buscando sempre estar se aperfeiçoando e se ambientando em meio a tantas oportunidades.
+
+<br />
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raqsanta/)[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dev.to/)
 
