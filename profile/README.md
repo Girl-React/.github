@@ -56,7 +56,7 @@ Olá! Sou desenvolvedora Front-End e também estudante de Nutrição, sou Pernam
 
 <img align='left' src='https://avatars.githubusercontent.com/u/104655761?v=4' width="150px;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus non sem sed egestas. Donec magna ligula, placerat eget scelerisque vitae, sagittis nec lectus. Nulla eget purus ut diam eleifend rhoncus quis nec elit. Fusce augue odio, mattis nec eros a, rutrum sagittis turpis. Suspendisse sed tortor quam. Maecenas volutpat id eros vitae mattis. Ut non interdum dolor. Aenean id neque ut arcu vulputate efficitur tempus a sapien. 
+Sou desenvolvedora Front-End, estudante de Redes de computadores e designer gráfica. Meu primeiro contato com a área de programação e design foi em meados de 2017 e, desde então, quis continuar nessa área e trabalhar nesse meio. pretendo me tornar Full-Stack, tenho facilidade de adaptação em qualquer ambiente e aprendo bem rápido.
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeelds/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianapereirabarros)
 
