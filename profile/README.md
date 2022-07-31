@@ -46,7 +46,9 @@ Antony Matheus é um desenvolvedor front-End e técnico em logística recifense.
 
 <img align='left' src='https://avatars.githubusercontent.com/u/101149582?v=4' width="150px;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus non sem sed egestas. Donec magna ligula, placerat eget scelerisque vitae, sagittis nec lectus. Nulla eget purus ut diam eleifend rhoncus quis nec elit. Fusce augue odio, mattis nec eros a, rutrum sagittis turpis. Suspendisse sed tortor quam. Maecenas volutpat id eros vitae mattis. Ut non interdum dolor. Aenean id neque ut arcu vulputate efficitur tempus a sapien. 
+Olá! Sou desenvolvedora Front-End e também estudante de Nutrição, sou Pernambucana, amo os animais, tudo o que envolve tecnologia e sou bastante perfeccionista. Sempre foi um sonho me jogar nessa área incrível, buscando sempre mais conhecimentos para me aperfeiçoar e poder entregar melhores resultados.
+
+<br />
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/larysilvaak/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laryssa-kaylane-2b4502215/)
 
@@ -56,15 +58,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus non sem s
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus non sem sed egestas. Donec magna ligula, placerat eget scelerisque vitae, sagittis nec lectus. Nulla eget purus ut diam eleifend rhoncus quis nec elit. Fusce augue odio, mattis nec eros a, rutrum sagittis turpis. Suspendisse sed tortor quam. Maecenas volutpat id eros vitae mattis. Ut non interdum dolor. Aenean id neque ut arcu vulputate efficitur tempus a sapien. 
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raqsanta/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianapereirabarros)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeelds/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianapereirabarros)
 
 ## Thayanne Stella
 
 <img align='left' src='https://avatars.githubusercontent.com/u/102566766?v=4' width="150px;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus non sem sed egestas. Donec magna ligula, placerat eget scelerisque vitae, sagittis nec lectus. Nulla eget purus ut diam eleifend rhoncus quis nec elit. Fusce augue odio, mattis nec eros a, rutrum sagittis turpis. Suspendisse sed tortor quam. Maecenas volutpat id eros vitae mattis. Ut non interdum dolor. Aenean id neque ut arcu vulputate efficitur tempus a sapien. 
+Sou desenvolvedora Front-End apaixonada por design. Meu estado de nascença é o Rio de Janeiro - RJ, e estou atualmente residindo em Recife - PE, minha vontade é de subir na área da tecnologia e quem sabe em um futuro próximo se tornar full-stack estudando e lutando muito para que isso se torne realidade.
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raqsanta/)[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dev.to/)
+<br />
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thayannestella)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayanne-sb-rodrigues/)
 
 ## Nossos Projetos
 
